@@ -19,8 +19,23 @@
 
 ## Table of Contents
 
+- [Summary](#summary)
+- [Background](#background)
+- [What to do?](#what-to-do)
 - [Authors](#authors)
 
+
+## Summary <a name = "summary"></a>
+
+We need to create a simple bot that will handle q&a within the private messages and group chats.
+
+## Background <a name = "background"></a>
+
+I was wondering why most of the newcomers at neobis don't ask questions. I believe some of them are too shy for this, being publicly humiliated for asking a stupid question is a big deal for them (even though it's not like that at all). And this thought brought me to the idea of creating a solution that will help 'em to do it anonymously via the bot.
+
+## What to do? <a name = "what-to-do"></a>
+
+PM me at [Telegram](https://t.me/dimashmello) if you want to participate.
 ## Authors <a name = "authors"></a>
 
 - [@dinmukhamet](https://github.com/Dinmukhamet) - Idea & Initial work
