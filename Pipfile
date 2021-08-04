@@ -4,15 +4,19 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+aiogram = "==2.14.3"
 
 [dev-packages]
-black = "*"
 isort = "*"
 flake8 = "*"
 mypy = "*"
 pytest = "*"
 pytest-cov = "*"
 pre-commit = "*"
+black = "*"
 
 [requires]
 python_version = "3.9"
+
+[pipenv]
+allow_prereleases = true
