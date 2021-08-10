@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 aiogram = "==2.14.3"
+psycopg2-binary = "*"
+
 
 [dev-packages]
 isort = "*"
@@ -13,7 +15,6 @@ mypy = "*"
 pytest = "*"
 pytest-cov = "*"
 pre-commit = "*"
-black = "*"
 
 [requires]
 python_version = "3.9"
